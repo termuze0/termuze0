@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @termuze
+- 👀 I’m interested in fullstack webdevelopment
+- 💞️ I’m looking to collaborate on any web related project
+- 😄 Pronouns: he/him
