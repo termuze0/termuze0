@@ -8,7 +8,7 @@
   - 💞️ I’m looking to collaborate on any <strong>web-related project</strong><br>
   - 😄 Pronouns: <strong>he/him</strong>
 </div>
-
+ 
 
 
 <h3 align="left">Connect with me:</h3>
