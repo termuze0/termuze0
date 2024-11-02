@@ -3,7 +3,7 @@
 
 <h2 align="center">About Me</h2>
 <div align="center" style="font-size: 18px;">
-  - 👋 Hi, I’m <strong>termuze musa</strong><br>
+  - 👋 Hi, I’m <strong>termuze </strong><br>
   - 👀 I’m interested in <strong>fullstack web development</strong><br> 
   - 💞️ I’m looking to collaborate on any <strong>web-related project</strong><br>
   - 😄 Pronouns: <strong>he/him</strong>
